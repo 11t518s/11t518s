@@ -1,11 +1,11 @@
 
 ### 시작부터 뜬금없지만 세상을 조금 더 행복하게 만들고 싶습니다! ㅎ_ㅎ
-##### 그러기 위해서 이런 저런 도전을 해보다가 개발을 시작하게 됐습니다.
-##### 그래서 세상을 조금 더 행복하게 만드는 개발자가 될겁니다!
+그러기 위해서 이런 저런 도전을 해보다가 개발을 시작하게 됐습니다.
+그래서 세상을 조금 더 행복하게 만드는 개발자가 될겁니다!
 
 
 <br/>
-<br/>
+---
 <br/>
 
 
@@ -21,7 +21,9 @@ const 자기소개 = {
 }
 ```
 
-<hr/>
+<br/>
+---
+<br/>
 
    **좋아하는 언어 :**
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"/>
@@ -42,6 +44,9 @@ const 자기소개 = {
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/><span style="font-size: 3px">여기 있을수도 있지 왜 우리 파이어베이스 죽이고 그래요..!</span>
 
+<br/>
+---
+<br/>
 
 ### 그 동안 해온 일
 |기간|회사명|한 일|isDeveloper|
