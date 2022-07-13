@@ -1,7 +1,7 @@
 
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=''&desc=최봉수(derrick)입니다 :)&descSize=30&descAlign=65&fontSize=90&fontAlign=50&fontAlignY=45&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=환영합니다!&desc=최봉수(derrick)입니다:)&descSize=30&descAlign=65&fontSize=60&fontAlign=50&fontAlignY=45&animation=twinkling)
 
 
 ### 뜬금없지만 세상을 조금 더 행복하게 만들고 싶습니다! ㅎ_ㅎ
