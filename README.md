@@ -1,14 +1,11 @@
 
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=환영합니다!&desc=최봉수(derrick)입니다:)&descSize=30&descAlign=65&fontSize=60&fontAlign=50&fontAlignY=45&animation=twinkling)
 
+### 시작부터 뜬금없지만 세상을 조금 더 행복하게 만들고 싶습니다! ㅎ_ㅎ
+#####그러기 위해서 이런 저런 도전을 해보다가 개발을 시작하게 됐습니다.
+#####그래서 세상을 조금 더 행복하게 만드는 개발자가 될겁니다!
 
-### 뜬금없지만 세상을 조금 더 행복하게 만들고 싶습니다! ㅎ_ㅎ
-<p style="font-size: 10px">방법은 모르겠지만 이미 천천히 저도 모르는 사이 만들고 있겠죠..?</p>
-
-  I want to be a developer that everyone wants to work with.<br />
-If you have any questions, feel free to contact me!
 
 </div>
 
