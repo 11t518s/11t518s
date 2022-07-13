@@ -49,7 +49,7 @@ const 자기소개 = {
 
 #### 혹..시나.. 연락하고싶으시면 아래로 편하게 연락주세요 :)
 
-<a href="https://www.instagram.com/bbongs__su_/" target="_blank">
+<a href="https://www.instagram.com/bbong__su_/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
 </a>
 <a href="mailto:11t518s20161759@gmail.com">
