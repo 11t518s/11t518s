@@ -5,7 +5,7 @@
 
 
 <br/>
----
+<hr/>
 <br/>
 
 
@@ -22,7 +22,7 @@ const 자기소개 = {
 ```
 
 <br/>
----
+<hr/>
 <br/>
 
    **좋아하는 언어 :**
@@ -45,7 +45,7 @@ const 자기소개 = {
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/><span style="font-size: 3px">여기 있을수도 있지 왜 우리 파이어베이스 죽이고 그래요..!</span>
 
 <br/>
----
+<hr/>
 <br/>
 
 ### 그 동안 해온 일
@@ -57,6 +57,8 @@ const 자기소개 = {
 |2020.07~ing|숭실대학교|벤처과, 통계과|false|
 |2022.04~ing|후야호|풀스택 개발|true|
 
+<br/>
+<br/>
 
 #### 혹..시나.. 연락하고싶으시면 아래로 편하게 연락주세요 :)
 
