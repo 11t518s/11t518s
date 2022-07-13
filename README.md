@@ -49,9 +49,10 @@ const 자기소개 = {
 
 #### 혹..시나.. 연락하고싶으시면 아래로 편하게 연락주세요 :)
 
-  
-    <a href="https://www.instagram.com/bbongs__su_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-    <a href="mailto:11t518s20161759@gmail.com">
+<a href="https://www.instagram.com/bbongs__su_/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
+</a>
+<a href="mailto:11t518s20161759@gmail.com">
     <img 
         src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:11t518s20161759@gmail.com"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
