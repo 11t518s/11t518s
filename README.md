@@ -1,5 +1,8 @@
-### 세상을 조금 더 행복하게 되려합니다. ㅎ_ㅎ
-<p style="font-size: 10px">이미 천천히 저도 모르는 사이 만들고 있겠죠..?</p>
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=안녕하세요! 최봉수입니다 :)%20render&fontSize=90" />
+
+
+### 뜬금없지만 세상을 조금 더 행복하게 만들고 싶습니다! ㅎ_ㅎ
+<p style="font-size: 10px">방법은 모르겠지만 이미 천천히 저도 모르는 사이 만들고 있겠죠..?</p>
 
 
 ```
