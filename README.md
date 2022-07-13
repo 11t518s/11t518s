@@ -16,9 +16,11 @@ const 자기소개 = {
 
 <hr/>
    **자주 쓰는 언어 :**
+   <div>
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typecript&logoColor=white"/>
-<img src="https://img.shields.io/badge/-%ED%95%9C%EA%B5%AD%EB%A7%90-blue"/>이 언어는 좀 칩니다..
+<img src="https://img.shields.io/badge/-%ED%95%9C%EA%B5%AD%EB%A7%90-blue"/><p style="font-size: 5">이 언어는 좀 칩니다..</p>
+  </div>
 
    **프론트엔드 스택 :**
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
@@ -32,7 +34,7 @@ const 자기소개 = {
    **백엔드 스택 :**
 <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=NestJS&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/>여기 있을수도 있지 왜 우리 파이어베이스 죽이고 그래요..!
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/><p style="font-size: 5">여기 있을수도 있지 왜 우리 파이어베이스 죽이고 그래요..!</p>
 
 
 ### 그 동안 해온 일
@@ -48,11 +50,8 @@ const 자기소개 = {
 #### 혹..시나.. 연락하고싶으시면 아래로 편하게 연락주세요 :)
 
   
-<a href="https://www.instagram.com/bbong__su_/">
-    <img 
-        src="http://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&link=https://www.instagram.com/bbong__su_/"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a> <a href="mailto:11t518s20161759@gmail.com">
+    <a href="https://www.instagram.com/bbongs__su_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+    <a href="mailto:11t518s20161759@gmail.com">
     <img 
         src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:11t518s20161759@gmail.com"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
