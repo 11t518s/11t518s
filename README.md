@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=안녕하세요! 최봉수입니다 :)%20render&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=안녕하세요! 최봉수입니다 :)%20render&fontSize=20" />
 
 
 ### 뜬금없지만 세상을 조금 더 행복하게 만들고 싶습니다! ㅎ_ㅎ
