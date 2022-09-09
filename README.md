@@ -18,7 +18,6 @@ const 자기소개 = {
   소속: '후야호',
   하는일: '말랑이 온라인이라는 서비스를 풀스택으로 개발하고 있습니다 :)',
   하는일2: '조금씩 강의를 찍어서 올려보고 있습니다 :)'
-  블로그: <a href="https://velog.io/@11t518s/">바로가기</a>
 }
 ```
 
@@ -63,6 +62,7 @@ const 자기소개 = {
 
 #### 혹..시나.. 연락하고싶으시면 아래로 편하게 연락주세요 :)
 
+<a href="https://velog.io/@11t518s/">블로그</a>
 <a href="https://www.instagram.com/bbong__su_/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
 </a>
