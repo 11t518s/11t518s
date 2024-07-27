@@ -44,9 +44,9 @@ const 자기소개 = {
 <a href="https://www.instagram.com/bbong__su_/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
 </a>
+
 <a href="mailto:11t518s20161759@gmail.com">
     <img 
-        src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:11t518s20161759@gmail.com"
+        src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:prd.derrick@gmail.com"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
-<a href="https://velog.io/@11t518s/">velog</a>
