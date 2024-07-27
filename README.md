@@ -22,9 +22,6 @@ const 자기소개 = {
 <br/>
 <hr/>
 <br/>
-<br/>
-<hr/>
-<br/>
 
 ### 그 동안 해온 일
 |기간|회사명|한 일|isDeveloper|
